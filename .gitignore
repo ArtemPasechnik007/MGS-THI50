@@ -4,6 +4,7 @@
 
 MCP3221 mcp3221_5(0x49);
 
+
 int a = 2248; 
 int b = 1165;
 Adafruit_MCP9808 tempsensor = Adafruit_MCP9808();
